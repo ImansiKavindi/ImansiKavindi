@@ -6,6 +6,8 @@
 - 📫 How to reach me: kavindikualthunga@gmail.com 
 - 😄 Pronouns: She/Her
 
+Excited to learn, grow, and contribute to the ever-evolving field of IT and software development. Let's connect and code together! 🚀
+
 
 
 
