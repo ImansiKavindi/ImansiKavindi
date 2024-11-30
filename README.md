@@ -13,22 +13,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+building+cool+stuff!;Let's+collaborate+and+innovate!" alt="Typing SVG" />
 </div>
 
-</picture> <h2>About Me</h2>
+</picture> <h2>About Me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /></h2>
 
 - :technologist: Passionate about using software to solve real-world problems.
 - 🔭 Currently working on: Exploring software development and building exciting projects.
 - 🌱 Currently learning: Advanced Kotlin & React for better user experiences.
 - 📫 How to reach me: [kavindikulathunga@gmail.com](mailto:kavindikulathunga@gmail.com)
 - :nerd_face: Always eager to learn and grow.
-- :thinking: Open for new job opportunities. Check out my [Resume](Imansi Kulathunga.pdf).
+- :thinking: Open for new job opportunities. Check out my [Resume](https://drive.google.com/file/d/1RusiZG_MzLDG_uFewRh8epR_G7D4Jl64/view?usp=drive_link).
 
 
 <br>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 
 
 <h2 align="left">🛠 Tech Stack</h2>
-
+<img align="right" width="350px" hegiht="500px" alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 ### 💻 Languages
 <p>
   <a href="https://www.python.org" target="_blank"> 
