@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+building+cool+stuff!;Let's+collaborate+and+innovate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=90ee90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+building+cool+stuff!;Let's+collaborate+and+innovate!" alt="Typing SVG" />
 </div>
 
 </picture> <h2>About Me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /></h2>
