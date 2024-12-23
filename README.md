@@ -20,7 +20,7 @@
 - 🌱 Currently learning: Advanced Kotlin & React for better user experiences.
 - 📫 How to reach me: [kavindikulathunga@gmail.com](mailto:kavindikulathunga@gmail.com)
 - :nerd_face: Always eager to learn and grow.
-- :thinking: Open for new job opportunities. Check out my [Resume](https://drive.google.com/file/d/1RusiZG_MzLDG_uFewRh8epR_G7D4Jl64/view?usp=drive_link).
+
 
 
 <br>
