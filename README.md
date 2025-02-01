@@ -29,7 +29,7 @@
 
 <h2 align="left">🛠 Tech Stack</h2>
 <img align="right" width="350px" hegiht="500px" alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
-### 💻 Languages
+ 💻 Languages
 <p>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
