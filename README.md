@@ -66,8 +66,8 @@
 <h2 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub Stats & Most Used Languages</h2>
 <br>
 <div> 
-  <img height="180em"width="440em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imansikavindi&show_icons=true&theme=radical&hide_border=true"/>
-  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imansikavindi&show_icons=true&theme=radical&hide_border=true"/>
+  &nbsp;&nbsp; 
   
   <img height="180em"   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imansikavindi&layout=compact&theme=radical&hide_border=true"/> 
 </div> <br>
