@@ -69,7 +69,7 @@
   <img height="180em"width="440em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imansikavindi&show_icons=true&theme=radical&hide_border=true"/>
   
   
-  <img height="180em" width="440em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imansikavindi&layout=compact&theme=radical&hide_border=true"/> 
+  <img height="180em"   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imansikavindi&layout=compact&theme=radical&hide_border=true"/> 
 </div> <br>
 
 
